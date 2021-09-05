@@ -36,8 +36,6 @@
   - Deserve the things you want. 
   - Its more important to deserve the things you wan than to have them.
 
-
-
 - Try to maintain objectivity
     > Automate good techniques: use check lists/protocols ect
 
